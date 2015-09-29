@@ -4,6 +4,8 @@
 
 Monkey is a GitHub third party client,Monkey is a program ape. 
 
+App Store:[https://itunes.apple.com/cn/app/monkey/id1030815652](https://itunes.apple.com/cn/app/monkey/id1030815652)
+
 Monekey Mac GitHub Open Source:[https://github.com/coderyi/Monkey](https://github.com/coderyi/Monkey)
 
 Monekey iOS GitHub Open Source:[https://github.com/coderyi/MonkeyForMac](https://github.com/coderyi/MonkeyForMac)
