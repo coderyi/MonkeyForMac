@@ -26,7 +26,7 @@ These data are provided from the GitHub interface,url is https://developer.githu
 
 ####Requirements
 
-Mac OS X 10.10+；Xcode6.3
+Mac OS X 10.10+;Xcode6.3
 
 ####Open Source Components
 
