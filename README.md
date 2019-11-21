@@ -12,15 +12,15 @@ Monekey iOS GitHub Open Source:[https://github.com/coderyi/Monkey](https://githu
 
 ## Monkey for GitHub
 
-Monkey is a GitHub third party client,Monkey is a program ape.
+Monkey is a unofficial GitHub client
 
 Monkey show the rank of coders and repositories.
 
-The developer's ranking is based on the developer's followers from high to low ranking, there is a distinction between different languages and cities.
+The developer's ranking is based on follower.
 
-repositories ranking is based on the repositories of stars by high to low ranking, there is a distinction between different languages.
+repositories ranking is based on star.
 
-These data are provided from the GitHub interface,url is https://developer.github.com/v3/
+GitHub url https://developer.github.com/v3/
 
 ## About Open Source
 
